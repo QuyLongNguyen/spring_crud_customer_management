@@ -75,7 +75,7 @@
 				</c:forEach>
 						
 			</table>
-				
+				<!--<img src="${pageContext.request.contextPath}/resources/123.jpg" />>  -->
 		</div>
 	
 	</div>
